@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @theme {
   --color-white-100: hsl(240, 78%, 98%);
-  --color-gray-110: hsl(233, 13%, 49%);
+  --color-gray-110: hsl(232, 13%, 33%);
+  --color-gray-115:hsl(233, 13%, 49%);
+  --color-gray-118:hsl(234, 14%, 74%);
   --color-violet-120:hsl(236, 72%, 79%);
 }
